@@ -51781,6 +51781,8 @@ definitions:
         format: int32
       winner:
         type: string
+  mwackowski.checkers.checkers.MsgRejectGameResponse:
+    type: object
   mwackowski.checkers.checkers.Params:
     type: object
     description: Params defines the parameters for the module.
